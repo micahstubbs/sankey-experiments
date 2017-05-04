@@ -8,29 +8,28 @@ const format = d => `${formatNumber(d)} TWh`;
 const color = d3.scaleOrdinal(d3.schemeCategory20);
 
 const svg = d3.select('svg')
-    .attr('width', width + margin.left + margin.right)
-    .attr('height', height + margin.top + margin.bottom)
+  .attr('width', width + margin.left + margin.right)
+  .attr('height', height + margin.top + margin.bottom)
   .append('g')
     .attr('transform', `translate(${margin.left},${margin.top})`);
 
 const sankey = d3.sankey()
-    .nodeWidth(15)
-    .nodePadding(10)
-    .size([width, height]);
+  .nodeWidth(15)
+  .nodePadding(10)
+  .size([width, height]);
 
 const path = sankey.link();
 
 const freqCounter = 1;
 
-
 d3.json('energy.json', (energy) => {
   sankey
-      .nodes(energy.nodes)
-      .links(energy.links)
-      .layout(32);
+    .nodes(energy.nodes)
+    .links(energy.links)
+    .layout(32);
 
   const link = svg.append('g').selectAll('.link')
-      .data(energy.links)
+    .data(energy.links)
     .enter().append('path')
       .attr('class', 'link')
       .attr('d', path)
@@ -38,36 +37,36 @@ d3.json('energy.json', (energy) => {
       .sort((a, b) => b.dy - a.dy);
 
   link.append('title')
-      .text(d => `${d.source.name} → ${d.target.name}\n${format(d.value)}`);
+    .text(d => `${d.source.name} → ${d.target.name}\n${format(d.value)}`);
 
   const node = svg.append('g').selectAll('.node')
-      .data(energy.nodes)
+    .data(energy.nodes)
     .enter().append('g')
       .attr('class', 'node')
       .attr('transform', d => `translate(${d.x},${d.y})`)
-    .call(d3.drag()
-      .subject(d => d)
-      .on('start', function () { this.parentNode.appendChild(this); })
-      .on('drag', dragmove));
+      .call(d3.drag()
+        .subject(d => d)
+        .on('start', function () { this.parentNode.appendChild(this); })
+        .on('drag', dragmove));
 
   node.append('rect')
-      .attr('height', d => d.dy)
-      .attr('width', sankey.nodeWidth())
-      .style('fill', (d) => {
-        d.color = color(d.name.replace(/ .*/, ''));
-        return d.color;
-      })
-      .style('stroke', 'none')
+    .attr('height', d => d.dy)
+    .attr('width', sankey.nodeWidth())
+    .style('fill', (d) => {
+      d.color = color(d.name.replace(/ .*/, ''));
+      return d.color;
+    })
+    .style('stroke', 'none')
     .append('title')
       .text(d => `${d.name}\n${format(d.value)}`);
 
   node.append('text')
-      .attr('x', -6)
-      .attr('y', d => d.dy / 2)
-      .attr('dy', '.35em')
-      .attr('text-anchor', 'end')
-      .attr('transform', null)
-      .text(d => d.name)
+    .attr('x', -6)
+    .attr('y', d => d.dy / 2)
+    .attr('dy', '.35em')
+    .attr('text-anchor', 'end')
+    .attr('transform', null)
+    .text(d => d.name)
     .filter(d => d.x < width / 2)
       .attr('x', 6 + sankey.nodeWidth())
       .attr('text-anchor', 'start');
@@ -99,7 +98,7 @@ d3.json('energy.json', (energy) => {
     d3.selectAll('path.link')
     .each(
       function (d) {
-//        if (d.freq < 1) {
+        // if (d.freq < 1) {
         for (let x = 0; x < 2; x += 1) {
           const offset = (Math.random() - 0.5) * (d.dy - 4);
           if (Math.random() < d.freq) {
@@ -107,14 +106,15 @@ d3.json('energy.json', (energy) => {
             particles.push({ link: d, time: elapsed, offset, path: this, length, animateTime: length, speed: 0.5 + (Math.random()) });
           }
         }
-
-//        }
-/*        else {
-          for (var x = 0; x<d.freq; x++) {
-            var offset = (Math.random() - .5) * d.dy;
-            particles.push({link: d, time: elapsed, offset: offset, path: this})
-          }
-        } */
+        // }
+        /*    
+            else {
+              for (var x = 0; x<d.freq; x++) {
+                var offset = (Math.random() - .5) * d.dy;
+                particles.push({link: d, time: elapsed, offset: offset, path: this})
+              }
+            } 
+        */
       });
 
     particleEdgeCanvasPath(elapsed);
