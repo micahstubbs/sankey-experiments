@@ -1,0 +1,93 @@
+{
+  "paths": [[2, 4, 6], [1, 4, 7], [1, 3, 7], [1, 3, 5], [0, 3, 6], [0, 3, 5]],
+  "nodes": [
+    {
+      "name": "patient-zero",
+      "id": 0
+    },
+    {
+      "name": "patient-one",
+      "id": 1
+    },
+    {
+      "name": "patient-two",
+      "id": 2
+    },
+    {
+      "name": "hospital",
+      "id": 3
+    },
+    {
+      "name": "clinic",
+      "id": 4
+    },
+    {
+      "name": "office-visit",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "id": 6
+    },
+    {
+      "name": "surgery",
+      "id": 7
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0.25,
+      "label": 1
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "value": 0.25,
+      "label": 1
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "value": 0.25,
+      "label": 1
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 0.25,
+      "label": 1
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 0.16,
+      "label": 1
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 0.17,
+      "label": 1
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 0.17,
+      "label": 1
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "value": 0.25,
+      "label": 1
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 0.25,
+      "label": 1
+    }
+  ]
+}
