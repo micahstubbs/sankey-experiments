@@ -39,6 +39,15 @@ const defs = svg.append('defs')
 d3.json('data.json', (error, graph) => {
   console.log('graph', graph)
 
+  // be flexible, accept datasets that have
+  // edges instead of links
+  if (
+    typeof graph.links === 'undefined' &&
+    typeof graph.edges !== 'undefined'
+  ) {
+    graph.links = graph.edges
+  }
+
   const pathsHash = {}
   graph.paths.forEach(path => {
     path.forEach(nodeInPath => {
