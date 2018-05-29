@@ -29,7 +29,7 @@ const sankey = d3
   .nodeWidth(12)
   .nodePadding(10)
   .nodeHeight(20)
-  .size([width])
+  .size([width, height])
 
 const path = sankey.link()
 

@@ -7,7 +7,6 @@ d3.sankey = function() {
     nodes = [],
     links = []
 
-  const width = size[0]
   let height = size[1]
 
   const nodesHash = {}
@@ -49,11 +48,10 @@ d3.sankey = function() {
   }
 
   sankey.layout = function(iterations) {
-    const nodeCount = nodes.length
     computeNodeLinks()
     computeNodeValues()
     computeNodeBreadths()
-    computeNodeDepths(iterations, nodeCount)
+    computeNodeDepths(iterations)
     computeLinkDepths()
     return sankey
   }
@@ -167,7 +165,7 @@ d3.sankey = function() {
 
     //
     moveSinksRight(x)
-    scaleNodeBreadths((width - nodeWidth) / (x - 1))
+    scaleNodeBreadths((size[0] - nodeWidth) / (x - 1))
   }
 
   function moveSourcesRight() {
@@ -201,7 +199,7 @@ d3.sankey = function() {
     })
   }
 
-  function computeNodeDepths(iterations, nodeCount) {
+  function computeNodeDepths(iterations) {
     var nodesByBreadth = d3
       .nest()
       .key(function(d) {
@@ -215,22 +213,22 @@ d3.sankey = function() {
 
     //
     initializeNodeDepth()
-    resolveCollisions(nodeCount)
+    resolveCollisions()
     for (var alpha = 1; iterations > 0; --iterations) {
       relaxRightToLeft((alpha *= 0.99))
-      resolveCollisions(nodeCount)
+      resolveCollisions()
       relaxLeftToRight(alpha)
-      resolveCollisions(nodeCount)
+      resolveCollisions()
     }
 
     function initializeNodeDepth() {
       // var ky = d3.min(nodesByBreadth, function(nodes) {
       //   const linkWidthFactor = nodePadding
       //   // return (
-      //   //   (height - (nodes.length - 1) * nodePadding) / d3.sum(nodes, value)
+      //   //   (size[1] - (nodes.length - 1) * nodePadding) / d3.sum(nodes, value)
       //   // )
       //   return (
-      //     (height - (nodes.length - 1) * linkWidthFactor) /
+      //     (size[1] - (nodes.length - 1) * linkWidthFactor) /
       //     d3.sum(nodes, value)
       //   )
       // })
@@ -292,7 +290,7 @@ d3.sankey = function() {
       }
     }
 
-    function resolveCollisions(nodeCount) {
+    function resolveCollisions() {
       nodesByBreadth.forEach(function(nodes) {
         var node,
           dy,
@@ -310,11 +308,10 @@ d3.sankey = function() {
         }
 
         if (typeof height === 'undefined') {
-          // height = nodeHeight * nodeCount
-          height = 200
+          // height = nodeHeight * nodes.length
+          // TODO find a nice dynamic way to calculate this
+          height = 160
         }
-        console.log('nodeCount', nodeCount)
-        console.log('height', height)
 
         // If the bottommost node goes outside the bounds, push it back up.
         dy = y0 - nodePadding - height
