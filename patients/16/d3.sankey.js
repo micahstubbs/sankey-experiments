@@ -8,6 +8,11 @@ d3.sankey = function() {
     links = []
 
   let height = size[1]
+  if (typeof height === 'undefined') {
+    // height = nodeHeight * nodes.length
+    // TODO find a nice dynamic way to calculate this
+    height = 160
+  }
 
   const nodesHash = {}
 
@@ -305,12 +310,6 @@ d3.sankey = function() {
           dy = y0 - node.y
           if (dy > 0) node.y += dy
           y0 = node.y + node.dy + nodePadding
-        }
-
-        if (typeof height === 'undefined') {
-          // height = nodeHeight * nodes.length
-          // TODO find a nice dynamic way to calculate this
-          height = 160
         }
 
         // If the bottommost node goes outside the bounds, push it back up.
