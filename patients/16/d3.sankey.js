@@ -237,7 +237,7 @@ d3.sankey = function() {
       //     d3.sum(nodes, value)
       //   )
       // })
-      const ky = 30
+      const ky = nodeHeight
 
       nodesByBreadth.forEach(function(nodes) {
         nodes.forEach(function(node, i) {
