@@ -213,20 +213,22 @@ d3.sankey = function() {
     }
 
     function initializeNodeDepth() {
-      var ky = d3.min(nodesByBreadth, function(nodes) {
-        const linkWidthFactor = nodePadding
-        // return (
-        //   (size[1] - (nodes.length - 1) * nodePadding) / d3.sum(nodes, value)
-        // )
-        return (
-          (size[1] - (nodes.length - 1) * linkWidthFactor) /
-          d3.sum(nodes, value)
-        )
-      })
+      // var ky = d3.min(nodesByBreadth, function(nodes) {
+      //   const linkWidthFactor = nodePadding
+      //   // return (
+      //   //   (size[1] - (nodes.length - 1) * nodePadding) / d3.sum(nodes, value)
+      //   // )
+      //   return (
+      //     (size[1] - (nodes.length - 1) * linkWidthFactor) /
+      //     d3.sum(nodes, value)
+      //   )
+      // })
+      const ky = 30
 
       nodesByBreadth.forEach(function(nodes) {
         nodes.forEach(function(node, i) {
           node.y = i
+          // node.dy = node.value * ky
           node.dy = node.value * ky
           // update nodesHash with the newly computed y, dy values
           nodesHash[node.id] = node
