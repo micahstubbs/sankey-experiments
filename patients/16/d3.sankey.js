@@ -3,12 +3,12 @@ d3.sankey = function() {
     nodeWidth = 24,
     nodeHeight = 30,
     nodePadding = 8,
-    size = [1, 1],
+    size = [1, undefined],
     nodes = [],
     links = []
 
   const width = size[0]
-  const height = size[1]
+  let height = size[1]
 
   const nodesHash = {}
 
@@ -49,10 +49,11 @@ d3.sankey = function() {
   }
 
   sankey.layout = function(iterations) {
+    const nodeCount = nodes.length
     computeNodeLinks()
     computeNodeValues()
     computeNodeBreadths()
-    computeNodeDepths(iterations)
+    computeNodeDepths(iterations, nodeCount)
     computeLinkDepths()
     return sankey
   }
@@ -200,7 +201,7 @@ d3.sankey = function() {
     })
   }
 
-  function computeNodeDepths(iterations) {
+  function computeNodeDepths(iterations, nodeCount) {
     var nodesByBreadth = d3
       .nest()
       .key(function(d) {
@@ -214,12 +215,12 @@ d3.sankey = function() {
 
     //
     initializeNodeDepth()
-    resolveCollisions()
+    resolveCollisions(nodeCount)
     for (var alpha = 1; iterations > 0; --iterations) {
       relaxRightToLeft((alpha *= 0.99))
-      resolveCollisions()
+      resolveCollisions(nodeCount)
       relaxLeftToRight(alpha)
-      resolveCollisions()
+      resolveCollisions(nodeCount)
     }
 
     function initializeNodeDepth() {
@@ -291,7 +292,7 @@ d3.sankey = function() {
       }
     }
 
-    function resolveCollisions() {
+    function resolveCollisions(nodeCount) {
       nodesByBreadth.forEach(function(nodes) {
         var node,
           dy,
@@ -307,6 +308,13 @@ d3.sankey = function() {
           if (dy > 0) node.y += dy
           y0 = node.y + node.dy + nodePadding
         }
+
+        if (typeof height === 'undefined') {
+          // height = nodeHeight * nodeCount
+          height = 200
+        }
+        console.log('nodeCount', nodeCount)
+        console.log('height', height)
 
         // If the bottommost node goes outside the bounds, push it back up.
         dy = y0 - nodePadding - height
