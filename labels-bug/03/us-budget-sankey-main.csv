@@ -1,0 +1,1051 @@
+source,target,year,value,type
+Corporate Tax,Revenue,1968,3.2,Revenue
+Corporate Tax,Revenue,1969,3.7,Revenue
+Corporate Tax,Revenue,1970,3.1,Revenue
+Corporate Tax,Revenue,1971,2.4,Revenue
+Corporate Tax,Revenue,1972,2.6,Revenue
+Corporate Tax,Revenue,1973,2.7,Revenue
+Corporate Tax,Revenue,1974,2.6,Revenue
+Corporate Tax,Revenue,1975,2.5,Revenue
+Corporate Tax,Revenue,1976,2.3,Revenue
+Corporate Tax,Revenue,1977,2.7,Revenue
+Corporate Tax,Revenue,1978,2.6,Revenue
+Corporate Tax,Revenue,1979,2.6,Revenue
+Corporate Tax,Revenue,1980,2.3,Revenue
+Corporate Tax,Revenue,1981,1.9,Revenue
+Corporate Tax,Revenue,1982,1.5,Revenue
+Corporate Tax,Revenue,1983,1,Revenue
+Corporate Tax,Revenue,1984,1.4,Revenue
+Corporate Tax,Revenue,1985,1.4,Revenue
+Corporate Tax,Revenue,1986,1.4,Revenue
+Corporate Tax,Revenue,1987,1.8,Revenue
+Corporate Tax,Revenue,1988,1.8,Revenue
+Corporate Tax,Revenue,1989,1.9,Revenue
+Corporate Tax,Revenue,1990,1.6,Revenue
+Corporate Tax,Revenue,1991,1.6,Revenue
+Corporate Tax,Revenue,1992,1.6,Revenue
+Corporate Tax,Revenue,1993,1.7,Revenue
+Corporate Tax,Revenue,1994,2,Revenue
+Corporate Tax,Revenue,1995,2.1,Revenue
+Corporate Tax,Revenue,1996,2.2,Revenue
+Corporate Tax,Revenue,1997,2.1,Revenue
+Corporate Tax,Revenue,1998,2.1,Revenue
+Corporate Tax,Revenue,1999,1.9,Revenue
+Corporate Tax,Revenue,2000,2,Revenue
+Corporate Tax,Revenue,2001,1.4,Revenue
+Corporate Tax,Revenue,2002,1.4,Revenue
+Corporate Tax,Revenue,2003,1.2,Revenue
+Corporate Tax,Revenue,2004,1.6,Revenue
+Corporate Tax,Revenue,2005,2.2,Revenue
+Corporate Tax,Revenue,2006,2.6,Revenue
+Corporate Tax,Revenue,2007,2.6,Revenue
+Corporate Tax,Revenue,2008,2.1,Revenue
+Corporate Tax,Revenue,2009,1,Revenue
+Corporate Tax,Revenue,2010,1.3,Revenue
+Corporate Tax,Revenue,2011,1.2,Revenue
+Corporate Tax,Revenue,2012,1.5,Revenue
+Corporate Tax,Revenue,2013,1.7,Revenue
+Corporate Tax,Revenue,2014,1.9,Revenue
+Corporate Tax,Revenue,2015,1.9,Revenue
+Corporate Tax,Revenue,2016,1.6,Revenue
+Corporate Tax,Revenue,2017,1.5,Revenue
+Customs Duties,Revenue,1968,0.2,Revenue
+Customs Duties,Revenue,1969,0.2,Revenue
+Customs Duties,Revenue,1970,0.2,Revenue
+Customs Duties,Revenue,1971,0.2,Revenue
+Customs Duties,Revenue,1972,0.3,Revenue
+Customs Duties,Revenue,1973,0.2,Revenue
+Customs Duties,Revenue,1974,0.2,Revenue
+Customs Duties,Revenue,1975,0.2,Revenue
+Customs Duties,Revenue,1976,0.2,Revenue
+Customs Duties,Revenue,1977,0.3,Revenue
+Customs Duties,Revenue,1978,0.3,Revenue
+Customs Duties,Revenue,1979,0.3,Revenue
+Customs Duties,Revenue,1980,0.3,Revenue
+Customs Duties,Revenue,1981,0.3,Revenue
+Customs Duties,Revenue,1982,0.3,Revenue
+Customs Duties,Revenue,1983,0.2,Revenue
+Customs Duties,Revenue,1984,0.3,Revenue
+Customs Duties,Revenue,1985,0.3,Revenue
+Customs Duties,Revenue,1986,0.3,Revenue
+Customs Duties,Revenue,1987,0.3,Revenue
+Customs Duties,Revenue,1988,0.3,Revenue
+Customs Duties,Revenue,1989,0.3,Revenue
+Customs Duties,Revenue,1990,0.3,Revenue
+Customs Duties,Revenue,1991,0.3,Revenue
+Customs Duties,Revenue,1992,0.3,Revenue
+Customs Duties,Revenue,1993,0.3,Revenue
+Customs Duties,Revenue,1994,0.3,Revenue
+Customs Duties,Revenue,1995,0.3,Revenue
+Customs Duties,Revenue,1996,0.2,Revenue
+Customs Duties,Revenue,1997,0.2,Revenue
+Customs Duties,Revenue,1998,0.2,Revenue
+Customs Duties,Revenue,1999,0.2,Revenue
+Customs Duties,Revenue,2000,0.2,Revenue
+Customs Duties,Revenue,2001,0.2,Revenue
+Customs Duties,Revenue,2002,0.2,Revenue
+Customs Duties,Revenue,2003,0.2,Revenue
+Customs Duties,Revenue,2004,0.2,Revenue
+Customs Duties,Revenue,2005,0.2,Revenue
+Customs Duties,Revenue,2006,0.2,Revenue
+Customs Duties,Revenue,2007,0.2,Revenue
+Customs Duties,Revenue,2008,0.2,Revenue
+Customs Duties,Revenue,2009,0.2,Revenue
+Customs Duties,Revenue,2010,0.2,Revenue
+Customs Duties,Revenue,2011,0.2,Revenue
+Customs Duties,Revenue,2012,0.2,Revenue
+Customs Duties,Revenue,2013,0.2,Revenue
+Customs Duties,Revenue,2014,0.2,Revenue
+Customs Duties,Revenue,2015,0.2,Revenue
+Customs Duties,Revenue,2016,0.2,Revenue
+Customs Duties,Revenue,2017,0.2,Revenue
+Discretionary,Defense,1968,9.1,Spending
+Discretionary,Defense,1969,8.4,Spending
+Discretionary,Defense,1970,7.8,Spending
+Discretionary,Defense,1971,7.1,Spending
+Discretionary,Defense,1972,6.5,Spending
+Discretionary,Defense,1973,5.7,Spending
+Discretionary,Defense,1974,5.4,Spending
+Discretionary,Defense,1975,5.4,Spending
+Discretionary,Defense,1976,5,Spending
+Discretionary,Defense,1977,4.8,Spending
+Discretionary,Defense,1978,4.6,Spending
+Discretionary,Defense,1979,4.5,Spending
+Discretionary,Defense,1980,4.8,Spending
+Discretionary,Defense,1981,5,Spending
+Discretionary,Defense,1982,5.6,Spending
+Discretionary,Defense,1983,5.9,Spending
+Discretionary,Defense,1984,5.8,Spending
+Discretionary,Defense,1985,5.9,Spending
+Discretionary,Defense,1986,6,Spending
+Discretionary,Defense,1987,5.9,Spending
+Discretionary,Defense,1988,5.6,Spending
+Discretionary,Defense,1989,5.5,Spending
+Discretionary,Defense,1990,5.1,Spending
+Discretionary,Defense,1991,5.2,Spending
+Discretionary,Defense,1992,4.7,Spending
+Discretionary,Defense,1993,4.3,Spending
+Discretionary,Defense,1994,3.9,Spending
+Discretionary,Defense,1995,3.6,Spending
+Discretionary,Defense,1996,3.3,Spending
+Discretionary,Defense,1997,3.2,Spending
+Discretionary,Defense,1998,3,Spending
+Discretionary,Defense,1999,2.9,Spending
+Discretionary,Defense,2000,2.9,Spending
+Discretionary,Defense,2001,2.9,Spending
+Discretionary,Defense,2002,3.2,Spending
+Discretionary,Defense,2003,3.6,Spending
+Discretionary,Defense,2004,3.8,Spending
+Discretionary,Defense,2005,3.8,Spending
+Discretionary,Defense,2006,3.8,Spending
+Discretionary,Defense,2007,3.8,Spending
+Discretionary,Defense,2008,4.2,Spending
+Discretionary,Defense,2009,4.6,Spending
+Discretionary,Defense,2010,4.7,Spending
+Discretionary,Defense,2011,4.5,Spending
+Discretionary,Defense,2012,4.2,Spending
+Discretionary,Defense,2013,3.8,Spending
+Discretionary,Defense,2014,3.5,Spending
+Discretionary,Defense,2015,3.2,Spending
+Discretionary,Defense,2016,3.2,Spending
+Discretionary,Defense,2017,3.1,Spending
+Discretionary,Nondefense,1968,4,Spending
+Discretionary,Nondefense,1969,3.5,Spending
+Discretionary,Nondefense,1970,3.7,Spending
+Discretionary,Nondefense,1971,3.9,Spending
+Discretionary,Nondefense,1972,4,Spending
+Discretionary,Nondefense,1973,3.9,Spending
+Discretionary,Nondefense,1974,3.9,Spending
+Discretionary,Nondefense,1975,4.4,Spending
+Discretionary,Nondefense,1976,4.8,Spending
+Discretionary,Nondefense,1977,4.9,Spending
+Discretionary,Nondefense,1978,5,Spending
+Discretionary,Nondefense,1979,4.8,Spending
+Discretionary,Nondefense,1980,5.1,Spending
+Discretionary,Nondefense,1981,4.8,Spending
+Discretionary,Nondefense,1982,4.2,Spending
+Discretionary,Nondefense,1983,4.1,Spending
+Discretionary,Nondefense,1984,3.8,Spending
+Discretionary,Nondefense,1985,3.8,Spending
+Discretionary,Nondefense,1986,3.6,Spending
+Discretionary,Nondefense,1987,3.4,Spending
+Discretionary,Nondefense,1988,3.4,Spending
+Discretionary,Nondefense,1989,3.3,Spending
+Discretionary,Nondefense,1990,3.4,Spending
+Discretionary,Nondefense,1991,3.5,Spending
+Discretionary,Nondefense,1992,3.6,Spending
+Discretionary,Nondefense,1993,3.6,Spending
+Discretionary,Nondefense,1994,3.6,Spending
+Discretionary,Nondefense,1995,3.6,Spending
+Discretionary,Nondefense,1996,3.3,Spending
+Discretionary,Nondefense,1997,3.2,Spending
+Discretionary,Nondefense,1998,3.1,Spending
+Discretionary,Nondefense,1999,3.1,Spending
+Discretionary,Nondefense,2000,3.1,Spending
+Discretionary,Nondefense,2001,3.2,Spending
+Discretionary,Nondefense,2002,3.5,Spending
+Discretionary,Nondefense,2003,3.7,Spending
+Discretionary,Nondefense,2004,3.6,Spending
+Discretionary,Nondefense,2005,3.7,Spending
+Discretionary,Nondefense,2006,3.6,Spending
+Discretionary,Nondefense,2007,3.4,Spending
+Discretionary,Nondefense,2008,3.5,Spending
+Discretionary,Nondefense,2009,4,Spending
+Discretionary,Nondefense,2010,4.4,Spending
+Discretionary,Nondefense,2011,4.2,Spending
+Discretionary,Nondefense,2012,3.8,Spending
+Discretionary,Nondefense,2013,3.5,Spending
+Discretionary,Nondefense,2014,3.4,Spending
+Discretionary,Nondefense,2015,3.3,Spending
+Discretionary,Nondefense,2016,3.3,Spending
+Discretionary,Nondefense,2017,3.2,Spending
+Estate/Gift Tax,Revenue,1968,0.3,Revenue
+Estate/Gift Tax,Revenue,1969,0.4,Revenue
+Estate/Gift Tax,Revenue,1970,0.3,Revenue
+Estate/Gift Tax,Revenue,1971,0.3,Revenue
+Estate/Gift Tax,Revenue,1972,0.4,Revenue
+Estate/Gift Tax,Revenue,1973,0.4,Revenue
+Estate/Gift Tax,Revenue,1974,0.3,Revenue
+Estate/Gift Tax,Revenue,1975,0.3,Revenue
+Estate/Gift Tax,Revenue,1976,0.3,Revenue
+Estate/Gift Tax,Revenue,1977,0.4,Revenue
+Estate/Gift Tax,Revenue,1978,0.2,Revenue
+Estate/Gift Tax,Revenue,1979,0.2,Revenue
+Estate/Gift Tax,Revenue,1980,0.2,Revenue
+Estate/Gift Tax,Revenue,1981,0.2,Revenue
+Estate/Gift Tax,Revenue,1982,0.2,Revenue
+Estate/Gift Tax,Revenue,1983,0.2,Revenue
+Estate/Gift Tax,Revenue,1984,0.2,Revenue
+Estate/Gift Tax,Revenue,1985,0.2,Revenue
+Estate/Gift Tax,Revenue,1986,0.2,Revenue
+Estate/Gift Tax,Revenue,1987,0.2,Revenue
+Estate/Gift Tax,Revenue,1988,0.1,Revenue
+Estate/Gift Tax,Revenue,1989,0.2,Revenue
+Estate/Gift Tax,Revenue,1990,0.2,Revenue
+Estate/Gift Tax,Revenue,1991,0.2,Revenue
+Estate/Gift Tax,Revenue,1992,0.2,Revenue
+Estate/Gift Tax,Revenue,1993,0.2,Revenue
+Estate/Gift Tax,Revenue,1994,0.2,Revenue
+Estate/Gift Tax,Revenue,1995,0.2,Revenue
+Estate/Gift Tax,Revenue,1996,0.2,Revenue
+Estate/Gift Tax,Revenue,1997,0.2,Revenue
+Estate/Gift Tax,Revenue,1998,0.3,Revenue
+Estate/Gift Tax,Revenue,1999,0.3,Revenue
+Estate/Gift Tax,Revenue,2000,0.3,Revenue
+Estate/Gift Tax,Revenue,2001,0.3,Revenue
+Estate/Gift Tax,Revenue,2002,0.2,Revenue
+Estate/Gift Tax,Revenue,2003,0.2,Revenue
+Estate/Gift Tax,Revenue,2004,0.2,Revenue
+Estate/Gift Tax,Revenue,2005,0.2,Revenue
+Estate/Gift Tax,Revenue,2006,0.2,Revenue
+Estate/Gift Tax,Revenue,2007,0.2,Revenue
+Estate/Gift Tax,Revenue,2008,0.2,Revenue
+Estate/Gift Tax,Revenue,2009,0.2,Revenue
+Estate/Gift Tax,Revenue,2010,0.1,Revenue
+Estate/Gift Tax,Revenue,2011,0.1,Revenue
+Estate/Gift Tax,Revenue,2012,0.1,Revenue
+Estate/Gift Tax,Revenue,2013,0.1,Revenue
+Estate/Gift Tax,Revenue,2014,0.1,Revenue
+Estate/Gift Tax,Revenue,2015,0.1,Revenue
+Estate/Gift Tax,Revenue,2016,0.1,Revenue
+Estate/Gift Tax,Revenue,2017,0.1,Revenue
+Excise Tax,Revenue,1968,1.6,Revenue
+Excise Tax,Revenue,1969,1.5,Revenue
+Excise Tax,Revenue,1970,1.5,Revenue
+Excise Tax,Revenue,1971,1.5,Revenue
+Excise Tax,Revenue,1972,1.3,Revenue
+Excise Tax,Revenue,1973,1.2,Revenue
+Excise Tax,Revenue,1974,1.1,Revenue
+Excise Tax,Revenue,1975,1,Revenue
+Excise Tax,Revenue,1976,0.9,Revenue
+Excise Tax,Revenue,1977,0.9,Revenue
+Excise Tax,Revenue,1978,0.8,Revenue
+Excise Tax,Revenue,1979,0.7,Revenue
+Excise Tax,Revenue,1980,0.9,Revenue
+Excise Tax,Revenue,1981,1.3,Revenue
+Excise Tax,Revenue,1982,1.1,Revenue
+Excise Tax,Revenue,1983,1,Revenue
+Excise Tax,Revenue,1984,0.9,Revenue
+Excise Tax,Revenue,1985,0.8,Revenue
+Excise Tax,Revenue,1986,0.7,Revenue
+Excise Tax,Revenue,1987,0.7,Revenue
+Excise Tax,Revenue,1988,0.7,Revenue
+Excise Tax,Revenue,1989,0.6,Revenue
+Excise Tax,Revenue,1990,0.6,Revenue
+Excise Tax,Revenue,1991,0.7,Revenue
+Excise Tax,Revenue,1992,0.7,Revenue
+Excise Tax,Revenue,1993,0.7,Revenue
+Excise Tax,Revenue,1994,0.8,Revenue
+Excise Tax,Revenue,1995,0.8,Revenue
+Excise Tax,Revenue,1996,0.7,Revenue
+Excise Tax,Revenue,1997,0.7,Revenue
+Excise Tax,Revenue,1998,0.6,Revenue
+Excise Tax,Revenue,1999,0.7,Revenue
+Excise Tax,Revenue,2000,0.7,Revenue
+Excise Tax,Revenue,2001,0.6,Revenue
+Excise Tax,Revenue,2002,0.6,Revenue
+Excise Tax,Revenue,2003,0.6,Revenue
+Excise Tax,Revenue,2004,0.6,Revenue
+Excise Tax,Revenue,2005,0.6,Revenue
+Excise Tax,Revenue,2006,0.5,Revenue
+Excise Tax,Revenue,2007,0.5,Revenue
+Excise Tax,Revenue,2008,0.5,Revenue
+Excise Tax,Revenue,2009,0.4,Revenue
+Excise Tax,Revenue,2010,0.5,Revenue
+Excise Tax,Revenue,2011,0.5,Revenue
+Excise Tax,Revenue,2012,0.5,Revenue
+Excise Tax,Revenue,2013,0.5,Revenue
+Excise Tax,Revenue,2014,0.5,Revenue
+Excise Tax,Revenue,2015,0.5,Revenue
+Excise Tax,Revenue,2016,0.5,Revenue
+Excise Tax,Revenue,2017,0.4,Revenue
+Income Tax,Revenue,1968,7.6,Revenue
+Income Tax,Revenue,1969,8.9,Revenue
+Income Tax,Revenue,1970,8.6,Revenue
+Income Tax,Revenue,1971,7.7,Revenue
+Income Tax,Revenue,1972,7.8,Revenue
+Income Tax,Revenue,1973,7.6,Revenue
+Income Tax,Revenue,1974,8,Revenue
+Income Tax,Revenue,1975,7.6,Revenue
+Income Tax,Revenue,1976,7.4,Revenue
+Income Tax,Revenue,1977,7.8,Revenue
+Income Tax,Revenue,1978,7.9,Revenue
+Income Tax,Revenue,1979,8.5,Revenue
+Income Tax,Revenue,1980,8.7,Revenue
+Income Tax,Revenue,1981,9.1,Revenue
+Income Tax,Revenue,1982,9,Revenue
+Income Tax,Revenue,1983,8.2,Revenue
+Income Tax,Revenue,1984,7.5,Revenue
+Income Tax,Revenue,1985,7.8,Revenue
+Income Tax,Revenue,1986,7.7,Revenue
+Income Tax,Revenue,1987,8.2,Revenue
+Income Tax,Revenue,1988,7.8,Revenue
+Income Tax,Revenue,1989,8,Revenue
+Income Tax,Revenue,1990,7.9,Revenue
+Income Tax,Revenue,1991,7.7,Revenue
+Income Tax,Revenue,1992,7.4,Revenue
+Income Tax,Revenue,1993,7.5,Revenue
+Income Tax,Revenue,1994,7.5,Revenue
+Income Tax,Revenue,1995,7.8,Revenue
+Income Tax,Revenue,1996,8.2,Revenue
+Income Tax,Revenue,1997,8.7,Revenue
+Income Tax,Revenue,1998,9.3,Revenue
+Income Tax,Revenue,1999,9.2,Revenue
+Income Tax,Revenue,2000,9.9,Revenue
+Income Tax,Revenue,2001,9.4,Revenue
+Income Tax,Revenue,2002,7.9,Revenue
+Income Tax,Revenue,2003,7,Revenue
+Income Tax,Revenue,2004,6.7,Revenue
+Income Tax,Revenue,2005,7.2,Revenue
+Income Tax,Revenue,2006,7.6,Revenue
+Income Tax,Revenue,2007,8.1,Revenue
+Income Tax,Revenue,2008,7.8,Revenue
+Income Tax,Revenue,2009,6.3,Revenue
+Income Tax,Revenue,2010,6.1,Revenue
+Income Tax,Revenue,2011,7.1,Revenue
+Income Tax,Revenue,2012,7.1,Revenue
+Income Tax,Revenue,2013,8,Revenue
+Income Tax,Revenue,2014,8.1,Revenue
+Income Tax,Revenue,2015,8.6,Revenue
+Income Tax,Revenue,2016,8.4,Revenue
+Income Tax,Revenue,2017,8.3,Revenue
+Mandatory**,Federal Retirement,1968,0.6,Spending
+Mandatory**,Federal Retirement,1969,0.7,Spending
+Mandatory**,Federal Retirement,1970,0.7,Spending
+Mandatory**,Federal Retirement,1971,0.8,Spending
+Mandatory**,Federal Retirement,1972,0.9,Spending
+Mandatory**,Federal Retirement,1973,0.9,Spending
+Mandatory**,Federal Retirement,1974,1,Spending
+Mandatory**,Federal Retirement,1975,1.2,Spending
+Mandatory**,Federal Retirement,1976,1.1,Spending
+Mandatory**,Federal Retirement,1977,1.1,Spending
+Mandatory**,Federal Retirement,1978,1.1,Spending
+Mandatory**,Federal Retirement,1979,1.1,Spending
+Mandatory**,Federal Retirement,1980,1.2,Spending
+Mandatory**,Federal Retirement,1981,1.2,Spending
+Mandatory**,Federal Retirement,1982,1.3,Spending
+Mandatory**,Federal Retirement,1983,1.3,Spending
+Mandatory**,Federal Retirement,1984,1.2,Spending
+Mandatory**,Federal Retirement,1985,1.1,Spending
+Mandatory**,Federal Retirement,1986,1,Spending
+Mandatory**,Federal Retirement,1987,1.1,Spending
+Mandatory**,Federal Retirement,1988,1.1,Spending
+Mandatory**,Federal Retirement,1989,1,Spending
+Mandatory**,Federal Retirement,1990,1,Spending
+Mandatory**,Federal Retirement,1991,1.1,Spending
+Mandatory**,Federal Retirement,1992,1,Spending
+Mandatory**,Federal Retirement,1993,1,Spending
+Mandatory**,Federal Retirement,1994,1,Spending
+Mandatory**,Federal Retirement,1995,1,Spending
+Mandatory**,Federal Retirement,1996,1,Spending
+Mandatory**,Federal Retirement,1997,0.9,Spending
+Mandatory**,Federal Retirement,1998,0.9,Spending
+Mandatory**,Federal Retirement,1999,0.9,Spending
+Mandatory**,Federal Retirement,2000,0.9,Spending
+Mandatory**,Federal Retirement,2001,0.9,Spending
+Mandatory**,Federal Retirement,2002,0.9,Spending
+Mandatory**,Federal Retirement,2003,0.9,Spending
+Mandatory**,Federal Retirement,2004,0.9,Spending
+Mandatory**,Federal Retirement,2005,0.9,Spending
+Mandatory**,Federal Retirement,2006,0.8,Spending
+Mandatory**,Federal Retirement,2007,0.9,Spending
+Mandatory**,Federal Retirement,2008,0.9,Spending
+Mandatory**,Federal Retirement,2009,1,Spending
+Mandatory**,Federal Retirement,2010,0.9,Spending
+Mandatory**,Federal Retirement,2011,0.9,Spending
+Mandatory**,Federal Retirement,2012,0.9,Spending
+Mandatory**,Federal Retirement,2013,0.9,Spending
+Mandatory**,Federal Retirement,2014,0.9,Spending
+Mandatory**,Federal Retirement,2015,0.9,Spending
+Mandatory**,Federal Retirement,2016,0.9,Spending
+Mandatory**,Federal Retirement,2017,0.8,Spending
+Mandatory**,Income Security,1968,0.7,Spending
+Mandatory**,Income Security,1969,0.7,Spending
+Mandatory**,Income Security,1970,0.8,Spending
+Mandatory**,Income Security,1971,1.2,Spending
+Mandatory**,Income Security,1972,1.3,Spending
+Mandatory**,Income Security,1973,1.1,Spending
+Mandatory**,Income Security,1974,1.2,Spending
+Mandatory**,Income Security,1975,1.8,Spending
+Mandatory**,Income Security,1976,2.1,Spending
+Mandatory**,Income Security,1977,1.7,Spending
+Mandatory**,Income Security,1978,1.4,Spending
+Mandatory**,Income Security,1979,1.3,Spending
+Mandatory**,Income Security,1980,1.6,Spending
+Mandatory**,Income Security,1981,1.6,Spending
+Mandatory**,Income Security,1982,1.6,Spending
+Mandatory**,Income Security,1983,1.8,Spending
+Mandatory**,Income Security,1984,1.3,Spending
+Mandatory**,Income Security,1985,1.2,Spending
+Mandatory**,Income Security,1986,1.2,Spending
+Mandatory**,Income Security,1987,1.2,Spending
+Mandatory**,Income Security,1988,1.1,Spending
+Mandatory**,Income Security,1989,1.1,Spending
+Mandatory**,Income Security,1990,1.2,Spending
+Mandatory**,Income Security,1991,1.4,Spending
+Mandatory**,Income Security,1992,1.7,Spending
+Mandatory**,Income Security,1993,1.7,Spending
+Mandatory**,Income Security,1994,1.6,Spending
+Mandatory**,Income Security,1995,1.5,Spending
+Mandatory**,Income Security,1996,1.5,Spending
+Mandatory**,Income Security,1997,1.4,Spending
+Mandatory**,Income Security,1998,1.4,Spending
+Mandatory**,Income Security,1999,1.4,Spending
+Mandatory**,Income Security,2000,1.3,Spending
+Mandatory**,Income Security,2001,1.4,Spending
+Mandatory**,Income Security,2002,1.7,Spending
+Mandatory**,Income Security,2003,1.7,Spending
+Mandatory**,Income Security,2004,1.6,Spending
+Mandatory**,Income Security,2005,1.5,Spending
+Mandatory**,Income Security,2006,1.5,Spending
+Mandatory**,Income Security,2007,1.4,Spending
+Mandatory**,Income Security,2008,1.8,Spending
+Mandatory**,Income Security,2009,2.4,Spending
+Mandatory**,Income Security,2010,3,Spending
+Mandatory**,Income Security,2011,2.6,Spending
+Mandatory**,Income Security,2012,2.2,Spending
+Mandatory**,Income Security,2013,2.1,Spending
+Mandatory**,Income Security,2014,1.8,Spending
+Mandatory**,Income Security,2015,1.7,Spending
+Mandatory**,Income Security,2016,1.6,Spending
+Mandatory**,Income Security,2017,1.5,Spending
+Mandatory**,Medicaid,1968,0.2,Spending
+Mandatory**,Medicaid,1969,0.2,Spending
+Mandatory**,Medicaid,1970,0.3,Spending
+Mandatory**,Medicaid,1971,0.3,Spending
+Mandatory**,Medicaid,1972,0.4,Spending
+Mandatory**,Medicaid,1973,0.3,Spending
+Mandatory**,Medicaid,1974,0.4,Spending
+Mandatory**,Medicaid,1975,0.4,Spending
+Mandatory**,Medicaid,1976,0.5,Spending
+Mandatory**,Medicaid,1977,0.5,Spending
+Mandatory**,Medicaid,1978,0.5,Spending
+Mandatory**,Medicaid,1979,0.5,Spending
+Mandatory**,Medicaid,1980,0.5,Spending
+Mandatory**,Medicaid,1981,0.5,Spending
+Mandatory**,Medicaid,1982,0.5,Spending
+Mandatory**,Medicaid,1983,0.5,Spending
+Mandatory**,Medicaid,1984,0.5,Spending
+Mandatory**,Medicaid,1985,0.5,Spending
+Mandatory**,Medicaid,1986,0.6,Spending
+Mandatory**,Medicaid,1987,0.6,Spending
+Mandatory**,Medicaid,1988,0.6,Spending
+Mandatory**,Medicaid,1989,0.6,Spending
+Mandatory**,Medicaid,1990,0.7,Spending
+Mandatory**,Medicaid,1991,0.9,Spending
+Mandatory**,Medicaid,1992,1.1,Spending
+Mandatory**,Medicaid,1993,1.1,Spending
+Mandatory**,Medicaid,1994,1.1,Spending
+Mandatory**,Medicaid,1995,1.2,Spending
+Mandatory**,Medicaid,1996,1.2,Spending
+Mandatory**,Medicaid,1997,1.1,Spending
+Mandatory**,Medicaid,1998,1.1,Spending
+Mandatory**,Medicaid,1999,1.1,Spending
+Mandatory**,Medicaid,2000,1.2,Spending
+Mandatory**,Medicaid,2001,1.2,Spending
+Mandatory**,Medicaid,2002,1.4,Spending
+Mandatory**,Medicaid,2003,1.4,Spending
+Mandatory**,Medicaid,2004,1.5,Spending
+Mandatory**,Medicaid,2005,1.4,Spending
+Mandatory**,Medicaid,2006,1.3,Spending
+Mandatory**,Medicaid,2007,1.3,Spending
+Mandatory**,Medicaid,2008,1.4,Spending
+Mandatory**,Medicaid,2009,1.7,Spending
+Mandatory**,Medicaid,2010,1.8,Spending
+Mandatory**,Medicaid,2011,1.8,Spending
+Mandatory**,Medicaid,2012,1.6,Spending
+Mandatory**,Medicaid,2013,1.6,Spending
+Mandatory**,Medicaid,2014,1.7,Spending
+Mandatory**,Medicaid,2015,1.9,Spending
+Mandatory**,Medicaid,2016,2,Spending
+Mandatory**,Medicaid,2017,2,Spending
+Mandatory**,Medicare,1968,0.6,Spending
+Mandatory**,Medicare,1969,0.6,Spending
+Mandatory**,Medicare,1970,0.6,Spending
+Mandatory**,Medicare,1971,0.7,Spending
+Mandatory**,Medicare,1972,0.7,Spending
+Mandatory**,Medicare,1973,0.7,Spending
+Mandatory**,Medicare,1974,0.7,Spending
+Mandatory**,Medicare,1975,0.9,Spending
+Mandatory**,Medicare,1976,0.9,Spending
+Mandatory**,Medicare,1977,1,Spending
+Mandatory**,Medicare,1978,1.1,Spending
+Mandatory**,Medicare,1979,1.1,Spending
+Mandatory**,Medicare,1980,1.2,Spending
+Mandatory**,Medicare,1981,1.3,Spending
+Mandatory**,Medicare,1982,1.5,Spending
+Mandatory**,Medicare,1983,1.6,Spending
+Mandatory**,Medicare,1984,1.5,Spending
+Mandatory**,Medicare,1985,1.6,Spending
+Mandatory**,Medicare,1986,1.6,Spending
+Mandatory**,Medicare,1987,1.7,Spending
+Mandatory**,Medicare,1988,1.7,Spending
+Mandatory**,Medicare,1989,1.7,Spending
+Mandatory**,Medicare,1990,1.8,Spending
+Mandatory**,Medicare,1991,1.9,Spending
+Mandatory**,Medicare,1992,2,Spending
+Mandatory**,Medicare,1993,2.1,Spending
+Mandatory**,Medicare,1994,2.2,Spending
+Mandatory**,Medicare,1995,2.3,Spending
+Mandatory**,Medicare,1996,2.4,Spending
+Mandatory**,Medicare,1997,2.5,Spending
+Mandatory**,Medicare,1998,2.4,Spending
+Mandatory**,Medicare,1999,2.2,Spending
+Mandatory**,Medicare,2000,2.1,Spending
+Mandatory**,Medicare,2001,2.3,Spending
+Mandatory**,Medicare,2002,2.3,Spending
+Mandatory**,Medicare,2003,2.4,Spending
+Mandatory**,Medicare,2004,2.5,Spending
+Mandatory**,Medicare,2005,2.6,Spending
+Mandatory**,Medicare,2006,2.8,Spending
+Mandatory**,Medicare,2007,3,Spending
+Mandatory**,Medicare,2008,3.1,Spending
+Mandatory**,Medicare,2009,3.5,Spending
+Mandatory**,Medicare,2010,3.5,Spending
+Mandatory**,Medicare,2011,3.6,Spending
+Mandatory**,Medicare,2012,3.4,Spending
+Mandatory**,Medicare,2013,3.5,Spending
+Mandatory**,Medicare,2014,3.5,Spending
+Mandatory**,Medicare,2015,3.5,Spending
+Mandatory**,Medicare,2016,3.7,Spending
+Mandatory**,Medicare,2017,3.7,Spending
+Mandatory**,Other,1968,1.4,Spending
+Mandatory**,Other,1969,1,Spending
+Mandatory**,Other,1970,1,Spending
+Mandatory**,Other,1971,0.9,Spending
+Mandatory**,Other,1972,1.1,Spending
+Mandatory**,Other,1973,1.3,Spending
+Mandatory**,Other,1974,1.1,Spending
+Mandatory**,Other,1975,1.5,Spending
+Mandatory**,Other,1976,1,Spending
+Mandatory**,Other,1977,0.9,Spending
+Mandatory**,Other,1978,1.3,Spending
+Mandatory**,Other,1979,1.1,Spending
+Mandatory**,Other,1980,1.2,Spending
+Mandatory**,Other,1981,1.2,Spending
+Mandatory**,Other,1982,1.2,Spending
+Mandatory**,Other,1983,1.2,Spending
+Mandatory**,Other,1984,0.8,Spending
+Mandatory**,Other,1985,1.3,Spending
+Mandatory**,Other,1986,1,Spending
+Mandatory**,Other,1987,0.8,Spending
+Mandatory**,Other,1988,0.8,Spending
+Mandatory**,Other,1989,0.9,Spending
+Mandatory**,Other,1990,1.5,Spending
+Mandatory**,Other,1991,1.6,Spending
+Mandatory**,Other,1992,0.6,Spending
+Mandatory**,Other,1993,0.1,Spending
+Mandatory**,Other,1994,0.2,Spending
+Mandatory**,Other,1995,0.1,Spending
+Mandatory**,Other,1996,0.1,Spending
+Mandatory**,Other,1997,0.1,Spending
+Mandatory**,Other,1998,0.3,Spending
+Mandatory**,Other,1999,0.4,Spending
+Mandatory**,Other,2000,0.4,Spending
+Mandatory**,Other,2001,0.4,Spending
+Mandatory**,Other,2002,0.4,Spending
+Mandatory**,Other,2003,0.4,Spending
+Mandatory**,Other,2004,0.5,Spending
+Mandatory**,Other,2005,0.5,Spending
+Mandatory**,Other,2006,0.8,Spending
+Mandatory**,Other,2007,0.4,Spending
+Mandatory**,Other,2008,0.5,Spending
+Mandatory**,Other,2009,2.2,Spending
+Mandatory**,Other,2010,-0.1,Spending
+Mandatory**,Other,2011,0.4,Spending
+Mandatory**,Other,2012,0.8,Spending
+Mandatory**,Other,2013,0.6,Spending
+Mandatory**,Other,2014,0.4,Spending
+Mandatory**,Other,2015,0.7,Spending
+Mandatory**,Other,2016,0.6,Spending
+Mandatory**,Other,2017,1,Spending
+Mandatory**,Social Security,1968,2.6,Spending
+Mandatory**,Social Security,1969,2.7,Spending
+Mandatory**,Social Security,1970,2.8,Spending
+Mandatory**,Social Security,1971,3.1,Spending
+Mandatory**,Social Security,1972,3.2,Spending
+Mandatory**,Social Security,1973,3.6,Spending
+Mandatory**,Social Security,1974,3.7,Spending
+Mandatory**,Social Security,1975,3.9,Spending
+Mandatory**,Social Security,1976,4.1,Spending
+Mandatory**,Social Security,1977,4.1,Spending
+Mandatory**,Social Security,1978,4.1,Spending
+Mandatory**,Social Security,1979,4,Spending
+Mandatory**,Social Security,1980,4.2,Spending
+Mandatory**,Social Security,1981,4.4,Spending
+Mandatory**,Social Security,1982,4.6,Spending
+Mandatory**,Social Security,1983,4.8,Spending
+Mandatory**,Social Security,1984,4.5,Spending
+Mandatory**,Social Security,1985,4.4,Spending
+Mandatory**,Social Security,1986,4.3,Spending
+Mandatory**,Social Security,1987,4.3,Spending
+Mandatory**,Social Security,1988,4.2,Spending
+Mandatory**,Social Security,1989,4.1,Spending
+Mandatory**,Social Security,1990,4.2,Spending
+Mandatory**,Social Security,1991,4.4,Spending
+Mandatory**,Social Security,1992,4.4,Spending
+Mandatory**,Social Security,1993,4.4,Spending
+Mandatory**,Social Security,1994,4.4,Spending
+Mandatory**,Social Security,1995,4.4,Spending
+Mandatory**,Social Security,1996,4.3,Spending
+Mandatory**,Social Security,1997,4.3,Spending
+Mandatory**,Social Security,1998,4.2,Spending
+Mandatory**,Social Security,1999,4.1,Spending
+Mandatory**,Social Security,2000,4,Spending
+Mandatory**,Social Security,2001,4.1,Spending
+Mandatory**,Social Security,2002,4.2,Spending
+Mandatory**,Social Security,2003,4.2,Spending
+Mandatory**,Social Security,2004,4.1,Spending
+Mandatory**,Social Security,2005,4,Spending
+Mandatory**,Social Security,2006,4,Spending
+Mandatory**,Social Security,2007,4.1,Spending
+Mandatory**,Social Security,2008,4.1,Spending
+Mandatory**,Social Security,2009,4.7,Spending
+Mandatory**,Social Security,2010,4.7,Spending
+Mandatory**,Social Security,2011,4.7,Spending
+Mandatory**,Social Security,2012,4.8,Spending
+Mandatory**,Social Security,2013,4.9,Spending
+Mandatory**,Social Security,2014,4.9,Spending
+Mandatory**,Social Security,2015,4.9,Spending
+Mandatory**,Social Security,2016,4.9,Spending
+Mandatory**,Social Security,2017,4.9,Spending
+Mandatory**,Veterans' Programs,1968,0.6,Spending
+Mandatory**,Veterans' Programs,1969,0.6,Spending
+Mandatory**,Veterans' Programs,1970,0.7,Spending
+Mandatory**,Veterans' Programs,1971,0.7,Spending
+Mandatory**,Veterans' Programs,1972,0.7,Spending
+Mandatory**,Veterans' Programs,1973,0.7,Spending
+Mandatory**,Veterans' Programs,1974,0.7,Spending
+Mandatory**,Veterans' Programs,1975,0.8,Spending
+Mandatory**,Veterans' Programs,1976,0.8,Spending
+Mandatory**,Veterans' Programs,1977,0.7,Spending
+Mandatory**,Veterans' Programs,1978,0.6,Spending
+Mandatory**,Veterans' Programs,1979,0.5,Spending
+Mandatory**,Veterans' Programs,1980,0.5,Spending
+Mandatory**,Veterans' Programs,1981,0.5,Spending
+Mandatory**,Veterans' Programs,1982,0.5,Spending
+Mandatory**,Veterans' Programs,1983,0.5,Spending
+Mandatory**,Veterans' Programs,1984,0.4,Spending
+Mandatory**,Veterans' Programs,1985,0.4,Spending
+Mandatory**,Veterans' Programs,1986,0.4,Spending
+Mandatory**,Veterans' Programs,1987,0.3,Spending
+Mandatory**,Veterans' Programs,1988,0.3,Spending
+Mandatory**,Veterans' Programs,1989,0.3,Spending
+Mandatory**,Veterans' Programs,1990,0.3,Spending
+Mandatory**,Veterans' Programs,1991,0.3,Spending
+Mandatory**,Veterans' Programs,1992,0.3,Spending
+Mandatory**,Veterans' Programs,1993,0.3,Spending
+Mandatory**,Veterans' Programs,1994,0.3,Spending
+Mandatory**,Veterans' Programs,1995,0.3,Spending
+Mandatory**,Veterans' Programs,1996,0.3,Spending
+Mandatory**,Veterans' Programs,1997,0.3,Spending
+Mandatory**,Veterans' Programs,1998,0.3,Spending
+Mandatory**,Veterans' Programs,1999,0.3,Spending
+Mandatory**,Veterans' Programs,2000,0.3,Spending
+Mandatory**,Veterans' Programs,2001,0.2,Spending
+Mandatory**,Veterans' Programs,2002,0.3,Spending
+Mandatory**,Veterans' Programs,2003,0.3,Spending
+Mandatory**,Veterans' Programs,2004,0.3,Spending
+Mandatory**,Veterans' Programs,2005,0.3,Spending
+Mandatory**,Veterans' Programs,2006,0.3,Spending
+Mandatory**,Veterans' Programs,2007,0.3,Spending
+Mandatory**,Veterans' Programs,2008,0.3,Spending
+Mandatory**,Veterans' Programs,2009,0.3,Spending
+Mandatory**,Veterans' Programs,2010,0.4,Spending
+Mandatory**,Veterans' Programs,2011,0.5,Spending
+Mandatory**,Veterans' Programs,2012,0.4,Spending
+Mandatory**,Veterans' Programs,2013,0.5,Spending
+Mandatory**,Veterans' Programs,2014,0.5,Spending
+Mandatory**,Veterans' Programs,2015,0.5,Spending
+Mandatory**,Veterans' Programs,2016,0.6,Spending
+Mandatory**,Veterans' Programs,2017,0.5,Spending
+Miscellaneous,Revenue,1968,0.3,Revenue
+Miscellaneous,Revenue,1969,0.3,Revenue
+Miscellaneous,Revenue,1970,0.3,Revenue
+Miscellaneous,Revenue,1971,0.3,Revenue
+Miscellaneous,Revenue,1972,0.3,Revenue
+Miscellaneous,Revenue,1973,0.3,Revenue
+Miscellaneous,Revenue,1974,0.4,Revenue
+Miscellaneous,Revenue,1975,0.4,Revenue
+Miscellaneous,Revenue,1976,0.4,Revenue
+Miscellaneous,Revenue,1977,0.3,Revenue
+Miscellaneous,Revenue,1978,0.3,Revenue
+Miscellaneous,Revenue,1979,0.4,Revenue
+Miscellaneous,Revenue,1980,0.5,Revenue
+Miscellaneous,Revenue,1981,0.4,Revenue
+Miscellaneous,Revenue,1982,0.5,Revenue
+Miscellaneous,Revenue,1983,0.4,Revenue
+Miscellaneous,Revenue,1984,0.4,Revenue
+Miscellaneous,Revenue,1985,0.4,Revenue
+Miscellaneous,Revenue,1986,0.4,Revenue
+Miscellaneous,Revenue,1987,0.4,Revenue
+Miscellaneous,Revenue,1988,0.4,Revenue
+Miscellaneous,Revenue,1989,0.4,Revenue
+Miscellaneous,Revenue,1990,0.5,Revenue
+Miscellaneous,Revenue,1991,0.4,Revenue
+Miscellaneous,Revenue,1992,0.4,Revenue
+Miscellaneous,Revenue,1993,0.3,Revenue
+Miscellaneous,Revenue,1994,0.3,Revenue
+Miscellaneous,Revenue,1995,0.4,Revenue
+Miscellaneous,Revenue,1996,0.3,Revenue
+Miscellaneous,Revenue,1997,0.3,Revenue
+Miscellaneous,Revenue,1998,0.4,Revenue
+Miscellaneous,Revenue,1999,0.4,Revenue
+Miscellaneous,Revenue,2000,0.4,Revenue
+Miscellaneous,Revenue,2001,0.4,Revenue
+Miscellaneous,Revenue,2002,0.3,Revenue
+Miscellaneous,Revenue,2003,0.3,Revenue
+Miscellaneous,Revenue,2004,0.3,Revenue
+Miscellaneous,Revenue,2005,0.3,Revenue
+Miscellaneous,Revenue,2006,0.3,Revenue
+Miscellaneous,Revenue,2007,0.3,Revenue
+Miscellaneous,Revenue,2008,0.3,Revenue
+Miscellaneous,Revenue,2009,0.4,Revenue
+Miscellaneous,Revenue,2010,0.7,Revenue
+Miscellaneous,Revenue,2011,0.7,Revenue
+Miscellaneous,Revenue,2012,0.7,Revenue
+Miscellaneous,Revenue,2013,0.6,Revenue
+Miscellaneous,Revenue,2014,0.8,Revenue
+Miscellaneous,Revenue,2015,0.8,Revenue
+Miscellaneous,Revenue,2016,0.8,Revenue
+Miscellaneous,Revenue,2017,0.7,Revenue
+Offsetting Receipts*,Revenue,1968,1.2,Revenue
+Offsetting Receipts*,Revenue,1969,1.1,Revenue
+Offsetting Receipts*,Revenue,1970,1.1,Revenue
+Offsetting Receipts*,Revenue,1971,1.3,Revenue
+Offsetting Receipts*,Revenue,1972,1.2,Revenue
+Offsetting Receipts*,Revenue,1973,1.3,Revenue
+Offsetting Receipts*,Revenue,1974,1.4,Revenue
+Offsetting Receipts*,Revenue,1975,1.1,Revenue
+Offsetting Receipts*,Revenue,1976,1.1,Revenue
+Offsetting Receipts*,Revenue,1977,1.1,Revenue
+Offsetting Receipts*,Revenue,1978,1,Revenue
+Offsetting Receipts*,Revenue,1979,1,Revenue
+Offsetting Receipts*,Revenue,1980,1,Revenue
+Offsetting Receipts*,Revenue,1981,1.2,Revenue
+Offsetting Receipts*,Revenue,1982,1.1,Revenue
+Offsetting Receipts*,Revenue,1983,1.3,Revenue
+Offsetting Receipts*,Revenue,1984,1.1,Revenue
+Offsetting Receipts*,Revenue,1985,1.1,Revenue
+Offsetting Receipts*,Revenue,1986,1,Revenue
+Offsetting Receipts*,Revenue,1987,1.1,Revenue
+Offsetting Receipts*,Revenue,1988,1.1,Revenue
+Offsetting Receipts*,Revenue,1989,1.1,Revenue
+Offsetting Receipts*,Revenue,1990,1,Revenue
+Offsetting Receipts*,Revenue,1991,1.7,Revenue
+Offsetting Receipts*,Revenue,1992,1.1,Revenue
+Offsetting Receipts*,Revenue,1993,1,Revenue
+Offsetting Receipts*,Revenue,1994,1,Revenue
+Offsetting Receipts*,Revenue,1995,1,Revenue
+Offsetting Receipts*,Revenue,1996,0.9,Revenue
+Offsetting Receipts*,Revenue,1997,1,Revenue
+Offsetting Receipts*,Revenue,1998,0.9,Revenue
+Offsetting Receipts*,Revenue,1999,0.8,Revenue
+Offsetting Receipts*,Revenue,2000,0.8,Revenue
+Offsetting Receipts*,Revenue,2001,0.8,Revenue
+Offsetting Receipts*,Revenue,2002,0.8,Revenue
+Offsetting Receipts*,Revenue,2003,0.9,Revenue
+Offsetting Receipts*,Revenue,2004,0.9,Revenue
+Offsetting Receipts*,Revenue,2005,1,Revenue
+Offsetting Receipts*,Revenue,2006,1.1,Revenue
+Offsetting Receipts*,Revenue,2007,1.2,Revenue
+Offsetting Receipts*,Revenue,2008,1.3,Revenue
+Offsetting Receipts*,Revenue,2009,1.3,Revenue
+Offsetting Receipts*,Revenue,2010,1.3,Revenue
+Offsetting Receipts*,Revenue,2011,1.4,Revenue
+Offsetting Receipts*,Revenue,2012,1.4,Revenue
+Offsetting Receipts*,Revenue,2013,1.8,Revenue
+Offsetting Receipts*,Revenue,2014,1.6,Revenue
+Offsetting Receipts*,Revenue,2015,1.4,Revenue
+Offsetting Receipts*,Revenue,2016,1.3,Revenue
+Offsetting Receipts*,Revenue,2017,1.3,Revenue
+Payroll Tax,Revenue,1968,3.8,Revenue
+Payroll Tax,Revenue,1969,4,Revenue
+Payroll Tax,Revenue,1970,4.2,Revenue
+Payroll Tax,Revenue,1971,4.2,Revenue
+Payroll Tax,Revenue,1972,4.3,Revenue
+Payroll Tax,Revenue,1973,4.7,Revenue
+Payroll Tax,Revenue,1974,5.1,Revenue
+Payroll Tax,Revenue,1975,5.2,Revenue
+Payroll Tax,Revenue,1976,5.1,Revenue
+Payroll Tax,Revenue,1977,5.2,Revenue
+Payroll Tax,Revenue,1978,5.3,Revenue
+Payroll Tax,Revenue,1979,5.4,Revenue
+Payroll Tax,Revenue,1980,5.6,Revenue
+Payroll Tax,Revenue,1981,5.8,Revenue
+Payroll Tax,Revenue,1982,6.1,Revenue
+Payroll Tax,Revenue,1983,5.9,Revenue
+Payroll Tax,Revenue,1984,6.1,Revenue
+Payroll Tax,Revenue,1985,6.2,Revenue
+Payroll Tax,Revenue,1986,6.3,Revenue
+Payroll Tax,Revenue,1987,6.3,Revenue
+Payroll Tax,Revenue,1988,6.5,Revenue
+Payroll Tax,Revenue,1989,6.5,Revenue
+Payroll Tax,Revenue,1990,6.4,Revenue
+Payroll Tax,Revenue,1991,6.5,Revenue
+Payroll Tax,Revenue,1992,6.4,Revenue
+Payroll Tax,Revenue,1993,6.3,Revenue
+Payroll Tax,Revenue,1994,6.4,Revenue
+Payroll Tax,Revenue,1995,6.4,Revenue
+Payroll Tax,Revenue,1996,6.4,Revenue
+Payroll Tax,Revenue,1997,6.4,Revenue
+Payroll Tax,Revenue,1998,6.4,Revenue
+Payroll Tax,Revenue,1999,6.4,Revenue
+Payroll Tax,Revenue,2000,6.4,Revenue
+Payroll Tax,Revenue,2001,6.6,Revenue
+Payroll Tax,Revenue,2002,6.4,Revenue
+Payroll Tax,Revenue,2003,6.3,Revenue
+Payroll Tax,Revenue,2004,6.1,Revenue
+Payroll Tax,Revenue,2005,6.2,Revenue
+Payroll Tax,Revenue,2006,6.1,Revenue
+Payroll Tax,Revenue,2007,6.1,Revenue
+Payroll Tax,Revenue,2008,6.1,Revenue
+Payroll Tax,Revenue,2009,6.2,Revenue
+Payroll Tax,Revenue,2010,5.8,Revenue
+Payroll Tax,Revenue,2011,5.3,Revenue
+Payroll Tax,Revenue,2012,5.3,Revenue
+Payroll Tax,Revenue,2013,5.7,Revenue
+Payroll Tax,Revenue,2014,5.9,Revenue
+Payroll Tax,Revenue,2015,5.9,Revenue
+Payroll Tax,Revenue,2016,6,Revenue
+Payroll Tax,Revenue,2017,6.1,Revenue
+Revenue,Spending,1968,18.2,Ignore
+Revenue,Spending,1969,20.1,Ignore
+Revenue,Spending,1970,19.5,Ignore
+Revenue,Spending,1971,18,Ignore
+Revenue,Spending,1972,18.2,Ignore
+Revenue,Spending,1973,18.3,Ignore
+Revenue,Spending,1974,19.1,Ignore
+Revenue,Spending,1975,18.4,Ignore
+Revenue,Spending,1976,17.7,Ignore
+Revenue,Spending,1977,18.6,Ignore
+Revenue,Spending,1978,18.5,Ignore
+Revenue,Spending,1979,19,Ignore
+Revenue,Spending,1980,19.5,Ignore
+Revenue,Spending,1981,20.3,Ignore
+Revenue,Spending,1982,19.7,Ignore
+Revenue,Spending,1983,18.3,Ignore
+Revenue,Spending,1984,18,Ignore
+Revenue,Spending,1985,18.3,Ignore
+Revenue,Spending,1986,18,Ignore
+Revenue,Spending,1987,19,Ignore
+Revenue,Spending,1988,18.7,Ignore
+Revenue,Spending,1989,18.9,Ignore
+Revenue,Spending,1990,18.4,Ignore
+Revenue,Spending,1991,19,Ignore
+Revenue,Spending,1992,18.1,Ignore
+Revenue,Spending,1993,18,Ignore
+Revenue,Spending,1994,18.5,Ignore
+Revenue,Spending,1995,18.8,Ignore
+Revenue,Spending,1996,19.1,Ignore
+Revenue,Spending,1997,19.6,Ignore
+Revenue,Spending,1998,20.1,Ignore
+Revenue,Spending,1999,20,Ignore
+Revenue,Spending,2000,20.8,Ignore
+Revenue,Spending,2001,19.6,Ignore
+Revenue,Spending,2002,17.8,Ignore
+Revenue,Spending,2003,16.6,Ignore
+Revenue,Spending,2004,16.5,Ignore
+Revenue,Spending,2005,17.7,Ignore
+Revenue,Spending,2006,18.7,Ignore
+Revenue,Spending,2007,19.1,Ignore
+Revenue,Spending,2008,18.4,Ignore
+Revenue,Spending,2009,15.9,Ignore
+Revenue,Spending,2010,15.9,Ignore
+Revenue,Spending,2011,16.4,Ignore
+Revenue,Spending,2012,16.7,Ignore
+Revenue,Spending,2013,18.6,Ignore
+Revenue,Spending,2014,19.1,Ignore
+Revenue,Spending,2015,19.5,Ignore
+Revenue,Spending,2016,19,Ignore
+Revenue,Spending,2017,18.6,Ignore
+Spending,Discretionary,1968,13.1,Ignore
+Spending,Discretionary,1969,11.9,Ignore
+Spending,Discretionary,1970,11.5,Ignore
+Spending,Discretionary,1971,10.9,Ignore
+Spending,Discretionary,1972,10.5,Ignore
+Spending,Discretionary,1973,9.6,Ignore
+Spending,Discretionary,1974,9.3,Ignore
+Spending,Discretionary,1975,9.8,Ignore
+Spending,Discretionary,1976,9.8,Ignore
+Spending,Discretionary,1977,9.7,Ignore
+Spending,Discretionary,1978,9.6,Ignore
+Spending,Discretionary,1979,9.3,Ignore
+Spending,Discretionary,1980,9.9,Ignore
+Spending,Discretionary,1981,9.8,Ignore
+Spending,Discretionary,1982,9.8,Ignore
+Spending,Discretionary,1983,10,Ignore
+Spending,Discretionary,1984,9.6,Ignore
+Spending,Discretionary,1985,9.7,Ignore
+Spending,Discretionary,1986,9.7,Ignore
+Spending,Discretionary,1987,9.3,Ignore
+Spending,Discretionary,1988,9,Ignore
+Spending,Discretionary,1989,8.8,Ignore
+Spending,Discretionary,1990,8.5,Ignore
+Spending,Discretionary,1991,8.7,Ignore
+Spending,Discretionary,1992,8.3,Ignore
+Spending,Discretionary,1993,7.9,Ignore
+Spending,Discretionary,1994,7.5,Ignore
+Spending,Discretionary,1995,7.2,Ignore
+Spending,Discretionary,1996,6.7,Ignore
+Spending,Discretionary,1997,6.4,Ignore
+Spending,Discretionary,1998,6.2,Ignore
+Spending,Discretionary,1999,6,Ignore
+Spending,Discretionary,2000,6.1,Ignore
+Spending,Discretionary,2001,6.1,Ignore
+Spending,Discretionary,2002,6.7,Ignore
+Spending,Discretionary,2003,7.3,Ignore
+Spending,Discretionary,2004,7.4,Ignore
+Spending,Discretionary,2005,7.5,Ignore
+Spending,Discretionary,2006,7.4,Ignore
+Spending,Discretionary,2007,7.3,Ignore
+Spending,Discretionary,2008,7.7,Ignore
+Spending,Discretionary,2009,8.6,Ignore
+Spending,Discretionary,2010,9.1,Ignore
+Spending,Discretionary,2011,8.8,Ignore
+Spending,Discretionary,2012,8,Ignore
+Spending,Discretionary,2013,7.3,Ignore
+Spending,Discretionary,2014,6.8,Ignore
+Spending,Discretionary,2015,6.5,Ignore
+Spending,Discretionary,2016,6.4,Ignore
+Spending,Discretionary,2017,6.3,Ignore
+Spending,Mandatory**,1968,6.6,Ignore
+Spending,Mandatory**,1969,6.6,Ignore
+Spending,Mandatory**,1970,6.9,Ignore
+Spending,Mandatory**,1971,7.8,Ignore
+Spending,Mandatory**,1972,8.3,Ignore
+Spending,Mandatory**,1973,8.6,Ignore
+Spending,Mandatory**,1974,8.8,Ignore
+Spending,Mandatory**,1975,10.5,Ignore
+Spending,Mandatory**,1976,10.6,Ignore
+Spending,Mandatory**,1977,10,Ignore
+Spending,Mandatory**,1978,10,Ignore
+Spending,Mandatory**,1979,9.6,Ignore
+Spending,Mandatory**,1980,10.4,Ignore
+Spending,Mandatory**,1981,10.8,Ignore
+Spending,Mandatory**,1982,11.2,Ignore
+Spending,Mandatory**,1983,11.6,Ignore
+Spending,Mandatory**,1984,10.3,Ignore
+Spending,Mandatory**,1985,10.5,Ignore
+Spending,Mandatory**,1986,10.2,Ignore
+Spending,Mandatory**,1987,9.9,Ignore
+Spending,Mandatory**,1988,9.8,Ignore
+Spending,Mandatory**,1989,9.8,Ignore
+Spending,Mandatory**,1990,10.6,Ignore
+Spending,Mandatory**,1991,11.5,Ignore
+Spending,Mandatory**,1992,11.2,Ignore
+Spending,Mandatory**,1993,10.8,Ignore
+Spending,Mandatory**,1994,10.9,Ignore
+Spending,Mandatory**,1995,10.8,Ignore
+Spending,Mandatory**,1996,10.8,Ignore
+Spending,Mandatory**,1997,10.6,Ignore
+Spending,Mandatory**,1998,10.5,Ignore
+Spending,Mandatory**,1999,10.3,Ignore
+Spending,Mandatory**,2000,10.2,Ignore
+Spending,Mandatory**,2001,10.4,Ignore
+Spending,Mandatory**,2002,11,Ignore
+Spending,Mandatory**,2003,11.3,Ignore
+Spending,Mandatory**,2004,11.1,Ignore
+Spending,Mandatory**,2005,11.2,Ignore
+Spending,Mandatory**,2006,11.4,Ignore
+Spending,Mandatory**,2007,11.4,Ignore
+Spending,Mandatory**,2008,12.1,Ignore
+Spending,Mandatory**,2009,15.9,Ignore
+Spending,Mandatory**,2010,14.3,Ignore
+Spending,Mandatory**,2011,14.5,Ignore
+Spending,Mandatory**,2012,14.1,Ignore
+Spending,Mandatory**,2013,14.1,Ignore
+Spending,Mandatory**,2014,13.8,Ignore
+Spending,Mandatory**,2015,14.2,Ignore
+Spending,Mandatory**,2016,14.4,Ignore
+Spending,Mandatory**,2017,14.5,Ignore
+Spending,Net Interest,1968,1.2,Spending
+Spending,Net Interest,1969,1.3,Spending
+Spending,Net Interest,1970,1.4,Spending
+Spending,Net Interest,1971,1.3,Spending
+Spending,Net Interest,1972,1.3,Spending
+Spending,Net Interest,1973,1.3,Spending
+Spending,Net Interest,1974,1.4,Spending
+Spending,Net Interest,1975,1.4,Spending
+Spending,Net Interest,1976,1.5,Spending
+Spending,Net Interest,1977,1.5,Spending
+Spending,Net Interest,1978,1.6,Spending
+Spending,Net Interest,1979,1.7,Spending
+Spending,Net Interest,1980,1.9,Spending
+Spending,Net Interest,1981,2.2,Spending
+Spending,Net Interest,1982,2.6,Spending
+Spending,Net Interest,1983,2.5,Spending
+Spending,Net Interest,1984,2.8,Spending
+Spending,Net Interest,1985,3,Spending
+Spending,Net Interest,1986,3,Spending
+Spending,Net Interest,1987,2.9,Spending
+Spending,Net Interest,1988,2.9,Spending
+Spending,Net Interest,1989,3,Spending
+Spending,Net Interest,1990,3.1,Spending
+Spending,Net Interest,1991,3.2,Spending
+Spending,Net Interest,1992,3.1,Spending
+Spending,Net Interest,1993,2.9,Spending
+Spending,Net Interest,1994,2.8,Spending
+Spending,Net Interest,1995,3.1,Spending
+Spending,Net Interest,1996,3,Spending
+Spending,Net Interest,1997,2.9,Spending
+Spending,Net Interest,1998,2.7,Spending
+Spending,Net Interest,1999,2.4,Spending
+Spending,Net Interest,2000,2.2,Spending
+Spending,Net Interest,2001,2,Spending
+Spending,Net Interest,2002,1.6,Spending
+Spending,Net Interest,2003,1.4,Spending
+Spending,Net Interest,2004,1.3,Spending
+Spending,Net Interest,2005,1.4,Spending
+Spending,Net Interest,2006,1.7,Spending
+Spending,Net Interest,2007,1.7,Spending
+Spending,Net Interest,2008,1.7,Spending
+Spending,Net Interest,2009,1.3,Spending
+Spending,Net Interest,2010,1.3,Spending
+Spending,Net Interest,2011,1.5,Spending
+Spending,Net Interest,2012,1.4,Spending
+Spending,Net Interest,2013,1.3,Spending
+Spending,Net Interest,2014,1.3,Spending
+Spending,Net Interest,2015,1.2,Spending
+Spending,Net Interest,2016,1.3,Spending
+Spending,Net Interest,2017,1.4,Spending
