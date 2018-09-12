@@ -117,7 +117,7 @@ d3.json('data.json', (error, graph) => {
   // add the rectangles for the nodes
   node
     .append('rect')
-    .attr('height', d => d.dy)
+    .attr('height', d => sankey.nodeHeight())
     .attr('width', sankey.nodeWidth())
     .style('fill', d => {
       if (color.domain().indexOf(d.name) > -1) {
