@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Sankey Particles</title>
+<style>
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .15;
+}
+
+.link:hover {
+  stroke-opacity: .25;
+}
+
+svg {
+  position: absolute;
+}
+
+canvas {
+  position: absolute;
+}
+</style>
+</head>
+<body>
+  <canvas width='960' height='960' ></canvas>
+  <svg width='960' height='960' ></svg>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.8.0/d3.js' charset='utf-8' type='text/javascript'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3-sankey/0.4.2/d3-sankey.js' charset='utf-8' type='text/javascript'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3-timer/1.0.5/d3-timer.js' charset='utf-8' type='text/javascript'></script>
+  <script src='vis.js'></script>
+</body>
+</html>
